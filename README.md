@@ -1,6 +1,10 @@
 # proyecto basa en GT
 
-este proyecto es realizado en Java para la implementacion de GIT en la clase de diseño de software, trata sobre un software de inventario de productos
+este proyecto fue creado para eexplicar  3 comando de git los cuales son:
+1.git reset --hard 
+2.git reset <commit> 
+3.git reset --hard
+<commit>
 
 ## pre-requisitos
 *Java
