@@ -1,10 +1,9 @@
 # proyecto basa en GT
 
-este proyecto fue creado para eexplicar  3 comando de git los cuales son:
+este proyecto fue creado para explicar  3 comando de git los cuales son:
 1.git reset --hard 
 2.git reset <commit> 
-3.git reset --hard
-<commit>
+3.git reset --hard <commit>
 
 ## pre-requisitos
 *Java
@@ -18,4 +17,4 @@ este proyecto fue creado para eexplicar  3 comando de git los cuales son:
 *netbeans
 
 # autores
-*juan sebastian ayala mahecha 
+*juan sebastian ayala mahecha
