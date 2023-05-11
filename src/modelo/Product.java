@@ -11,4 +11,10 @@ package modelo;
  */
 public class Product {
     
+    public String nombre;
+    public double precio;
+    public String categoria;
+    
+    
+    
 }
